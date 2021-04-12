@@ -16,7 +16,7 @@ import datetime
 
 
 
-print ('\x1b[1;33;40m' + '
+print ('''
 ⠀⠀⠀⠀⢀⣴⣿⣿⣿⡿⠋⠀⠀⠀⠹⣿⣦⡀
 ⠀⠀⢀⣴⣿⣿⣿⣿⣏⠀⠀⠀⠀⠀⠀⢹⣿⣧
 ⠀⠀⠙⢿⣿⡿⠋⠻⣿⣿⣦⡀⠀⠀⠀⢸⣿⣿⡆
@@ -26,7 +26,7 @@ print ('\x1b[1;33;40m' + '
 ⢠⣶⣿⣿⠋⠀⠀⠉⠛⠿⠿⠿⠿⠿⠛⠻⣿⣿⣦⡀
 ⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⡿ 
 
-Instant-CC (By Zyney & Aqua) Base : CC-attack - Leeon123 ' + '\x1b[1m')
+Instant-CC (By Zyney & Aqua) Base : CC-attack - Leeon123 ''')
 
 acceptall = [
 		"Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\n",
